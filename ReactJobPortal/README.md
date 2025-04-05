@@ -1,3 +1,17 @@
+## Quick Start 
+
+```
+# Terminal
+cd axis-poject/ReactJobportal
+
+# Install Dependencies 
+npm install react-scripts --save
+
+# Start the App
+npm start
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
